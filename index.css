@@ -1,0 +1,23 @@
+.a {
+  background-color: black;
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding: 10px;
+  text-decoration: underline;
+  border: solid 5px;
+  border-color: red;
+}
+.a:hover {
+  color: black;
+  background-color: rgb(194, 84, 181);
+}
+.extend {
+  margin-left: 850px;
+}
+.navbar {
+  background-color: black;
+  opacity: 0.9;
+}
+navbar:hover {
+  background-color: rgb(194, 84, 181);
+}
